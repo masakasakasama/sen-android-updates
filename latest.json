@@ -1,8 +1,8 @@
 {
   "versionCode": 12,
   "versionName": "0.1.11",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/blob/main/SEN-Android-0.1.11.apk",
-  "apkUrl": "https://raw.githubusercontent.com/masakasakasama/sen-android-updates/main/SEN-Android-0.1.11.apk",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.11",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.11/SEN-Android-0.1.11.apk",
   "sha256": "08d1755aeb3b5f58a0f8cdfbb8deb7d03b057856ec851adc511e02ac0427c335",
   "notes": "需要検証が有望0件でも停止せず、異なる条件の調査を最大3バッチまで自動継続します。旧版の4/4・有望0件の保存状態も、起動時に次の調査から再開します。"
 }
