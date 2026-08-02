@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.7",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.7",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.7/SEN-Android-0.1.7.apk",
-  "sha256": "849c7ac4c2e6bb8fc35bb99353299d01aedd69d60797d69cb1cf6e44ae19984d",
-  "notes": "実際の状態に合わせ、処理中・操作待ち・ブロック中を区別します。未実装機能が原因の場合はその事実を明記し、動いていない処理の一時停止ボタンを無効化します。"
+  "versionCode": 9,
+  "versionName": "0.1.8",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.8",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.8/SEN-Android-0.1.8.apk",
+  "sha256": "74ae691fbb313bd3d2978592fb57de91b984f9d82374f0cfb89ee1f2f418d7df",
+  "notes": "上位3候補のIssue、参加者数、要望記述、Star、Fork、更新状況を無料APIで自動検証します。v0.1.7の3/4状態は起動時に再開し、4/4まで完了します。"
 }
