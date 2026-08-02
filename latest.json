@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.2",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.2/SEN-Android-0.1.2.apk",
+  "sha256": "ba782f2f27fc7a00a01444b48ea19fd23de91384c6aefb98c984ab304353e393",
+  "notes": "起動時の自動更新確認と、アプリ内の更新通知を追加しました。"
+}

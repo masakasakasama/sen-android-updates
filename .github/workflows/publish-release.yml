@@ -1,0 +1,24 @@
+name: Publish APK release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VERSION="${GITHUB_REF_NAME#v}"
+          gh release create "$GITHUB_REF_NAME" \
+            "SEN-Android-${VERSION}.apk" \
+            --title "SEN Android ${GITHUB_REF_NAME}" \
+            --notes "Galaxy向けSEN Androidアプリ。v0.1.2以降は起動時に更新を自動確認します。"
