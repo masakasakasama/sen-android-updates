@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.1.6",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.6",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.6/SEN-Android-0.1.6.apk",
-  "sha256": "a96a25f7f64d24133777873aa44d1b882c4a77ff607d6e15605ac9e59d415e3d",
-  "notes": "ホームに4段階の進捗、現在実行中の処理、ブロッカー、次の操作、最終更新時刻を表示します。裏で何も動いていない状態を調査中とは表示しません。"
+  "versionCode": 8,
+  "versionName": "0.1.7",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.7",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.7/SEN-Android-0.1.7.apk",
+  "sha256": "849c7ac4c2e6bb8fc35bb99353299d01aedd69d60797d69cb1cf6e44ae19984d",
+  "notes": "実際の状態に合わせ、処理中・操作待ち・ブロック中を区別します。未実装機能が原因の場合はその事実を明記し、動いていない処理の一時停止ボタンを無効化します。"
 }
