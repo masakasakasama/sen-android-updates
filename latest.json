@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.1.8",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.8",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.8/SEN-Android-0.1.8.apk",
-  "sha256": "74ae691fbb313bd3d2978592fb57de91b984f9d82374f0cfb89ee1f2f418d7df",
-  "notes": "上位3候補のIssue、参加者数、要望記述、Star、Fork、更新状況を無料APIで自動検証します。v0.1.7の3/4状態は起動時に再開し、4/4まで完了します。"
+  "versionCode": 12,
+  "versionName": "0.1.11",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/blob/main/SEN-Android-0.1.11.apk",
+  "apkUrl": "https://raw.githubusercontent.com/masakasakasama/sen-android-updates/main/SEN-Android-0.1.11.apk",
+  "sha256": "08d1755aeb3b5f58a0f8cdfbb8deb7d03b057856ec851adc511e02ac0427c335",
+  "notes": "需要検証が有望0件でも停止せず、異なる条件の調査を最大3バッチまで自動継続します。旧版の4/4・有望0件の保存状態も、起動時に次の調査から再開します。"
 }
