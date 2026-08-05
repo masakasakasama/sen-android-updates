@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.1.12",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.12",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.12/SEN-Android-0.1.12.apk",
-  "sha256": "c83d7135afa940e6d849ee1f05bbcc9a1e62f2c0b906032c7455bb0b88069e81",
-  "notes": "実行中・待機・停止を明確に分離しました。実処理中だけLIVE表示と動く進捗バーを出し、停止中は実行処理なし・ブロッカー・再開条件・最終更新の経過時間を表示します。"
+  "versionCode": 15,
+  "versionName": "0.1.14",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.14",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.14/SEN-Android-0.1.14.apk",
+  "sha256": "560339064e845478cb66bc991e0e3d1c5062e1b63a9392119d37a8112ab4573d",
+  "notes": "Production Core接続契約を修正し、CI成功後のみ自動公開するRelease経路へ移行しました。"
 }
