@@ -2,7 +2,7 @@
   "versionCode": 15,
   "versionName": "0.1.14",
   "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.14",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.14/SEN-Android-0.1.14.apk",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.14/app-release.apk",
   "sha256": "560339064e845478cb66bc991e0e3d1c5062e1b63a9392119d37a8112ab4573d",
   "notes": "Production Core接続契約を修正し、CI成功後のみ自動公開するRelease経路へ移行しました。"
 }
