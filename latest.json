@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "0.1.19",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.19",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.19/SEN-Android-0.1.19.apk",
-  "sha256": "b5b958b10bb0aa9f71416138a84741cfa2d09278cc5549bfd0171d396423ff60",
+  "versionCode": 21,
+  "versionName": "0.1.20",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.20",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.20/SEN-Android-0.1.20.apk",
+  "sha256": "5fc4ce6fe0086779d44bc6c93509e4303ac4b4248f74850550e4d30dd3d766ad",
   "notes": "Agent Core未接続ブロッカーを解消。Owner Token未設定でも安全なread-only Core同期を行い、Core側が市場探索を自律bootstrapします。"
 }
