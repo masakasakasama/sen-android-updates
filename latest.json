@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.1.25",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.25",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.25/SEN-Android-0.1.25.apk",
-  "sha256": "a395a466152fc3858a55b4c042a34bd98e3752d9119c5082d0d03f127f0d6fce",
+  "versionCode": 27,
+  "versionName": "0.1.26",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.26",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.26/SEN-Android-0.1.26.apk",
+  "sha256": "613cf7f6bf65be249dc8314343a38f65c5c16102e2bf3afb4dab6fa62c17c49d",
   "notes": "戦略判断送信時のOwner認証不具合を修正。保存済みTokenを検証し、未設定・期限切れ・不一致の場合はCORE_API_TOKENの再設定を明示的に要求します。認証成功後はCore接続を再生成して送信可能にします。"
 }
