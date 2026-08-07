@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.1.24",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.24",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.24/SEN-Android-0.1.24.apk",
-  "sha256": "950d176abe3486bdd28b62b9b46d0cb3ca12fbb1708f5b8765949761c04f776f",
-  "notes": "更新ダウンロードの停止問題を修正。待機・一時停止理由を表示し、長時間進まない場合は明示的に失敗させて再試行できるようにしました。モバイル通信とローミングも許可します。"
+  "versionCode": 26,
+  "versionName": "0.1.25",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.25",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.25/SEN-Android-0.1.25.apk",
+  "sha256": "a395a466152fc3858a55b4c042a34bd98e3752d9119c5082d0d03f127f0d6fce",
+  "notes": "戦略判断送信時のOwner認証不具合を修正。保存済みTokenを検証し、未設定・期限切れ・不一致の場合はCORE_API_TOKENの再設定を明示的に要求します。認証成功後はCore接続を再生成して送信可能にします。"
 }
