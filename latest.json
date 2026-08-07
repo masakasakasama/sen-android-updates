@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.1.26",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.26",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.26/SEN-Android-0.1.26.apk",
-  "sha256": "613cf7f6bf65be249dc8314343a38f65c5c16102e2bf3afb4dab6fa62c17c49d",
-  "notes": "戦略判断送信時のOwner認証不具合を修正。保存済みTokenを検証し、未設定・期限切れ・不一致の場合はCORE_API_TOKENの再設定を明示的に要求します。認証成功後はCore接続を再生成して送信可能にします。"
+  "versionCode": 28,
+  "versionName": "0.1.27",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.27",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.27/SEN-Android-0.1.27.apk",
+  "sha256": "44f1dd3100d858014be9e1fc64341732940fa74f69a8751234e6fcfb5935b941",
+  "notes": "ChatGPT回答の同一行形式を受理し、重複送信を安全に処理。送信エラーの原因も画面へ表示します。"
 }
