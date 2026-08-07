@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.1.22",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.22",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.22/SEN-Android-0.1.22.apk",
-  "sha256": "6ea300dfca1fbec96a4e464a1c4ac55aa9bfdac3d8159863e9275b643f64a02c",
-  "notes": "Agent Core未接続ブロッカーを解消。Owner Token未設定でも安全なread-only Core同期を行い、Core側が市場探索を自律bootstrapします。"
+  "versionCode": 24,
+  "versionName": "0.1.23",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.23",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.23/SEN-Android-0.1.23.apk",
+  "sha256": "4bd084dc2553876d3677058e1ea7c56eb025db161acfa9c91e6e1b928d528d86",
+  "notes": "更新ダウンロードの停止問題を修正。待機・一時停止理由を表示し、長時間進まない場合は明示的に失敗させて再試行できるようにしました。モバイル通信とローミングも許可します。"
 }
