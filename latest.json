@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.1.23",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.23",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.23/SEN-Android-0.1.23.apk",
-  "sha256": "4bd084dc2553876d3677058e1ea7c56eb025db161acfa9c91e6e1b928d528d86",
+  "versionCode": 25,
+  "versionName": "0.1.24",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.24",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.24/SEN-Android-0.1.24.apk",
+  "sha256": "950d176abe3486bdd28b62b9b46d0cb3ca12fbb1708f5b8765949761c04f776f",
   "notes": "更新ダウンロードの停止問題を修正。待機・一時停止理由を表示し、長時間進まない場合は明示的に失敗させて再試行できるようにしました。モバイル通信とローミングも許可します。"
 }
