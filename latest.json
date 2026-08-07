@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "0.1.32",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.32",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.32/SEN-Android-0.1.32.apk",
-  "sha256": "fd0bbdbc42c71e4df6f6acdab65de43dbc23408a06cd422417bc8d42d0a4ede7",
+  "versionCode": 34,
+  "versionName": "0.1.33",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.33",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.33/SEN-Android-0.1.33.apk",
+  "sha256": "be4c60297a547c15548369a06af9daec62c0ed9a5202846dfe30454f1ef115d2",
   "notes": "スマホで更新APKを自動ダウンロード。DownloadManagerのTLS停止を回避し、HTTPS再試行・SHA検証後にAndroid更新確認を開きます。"
 }
