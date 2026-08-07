@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.1.28",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.28",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.28/SEN-Android-0.1.28.apk",
-  "sha256": "76a5db8bc05e63d0d6afcf623f27c7900a9eaee623909e9b545a22c9a960a05a",
-  "notes": "回答送信の無反応を修正。空・無効Tokenを接続済み扱いせず、送信中・成功・失敗を明示し、必要時だけ同じ画面で初回認証できます。"
+  "versionCode": 31,
+  "versionName": "0.1.30",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.30",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.30/SEN-Android-0.1.30.apk",
+  "sha256": "d3d4fd127fb87523b1985e16332adaf1d176da0f253c82c7ffea0a523e2a2c36",
+  "notes": "スマホで更新APKを自動ダウンロード。DownloadManagerのTLS停止を回避し、HTTPS再試行・SHA検証後にAndroid更新確認を開きます。"
 }
