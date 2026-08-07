@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "0.1.27",
-  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.27",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.27/SEN-Android-0.1.27.apk",
-  "sha256": "44f1dd3100d858014be9e1fc64341732940fa74f69a8751234e6fcfb5935b941",
-  "notes": "ChatGPT回答の同一行形式を受理し、重複送信を安全に処理。送信エラーの原因も画面へ表示します。"
+  "versionCode": 29,
+  "versionName": "0.1.28",
+  "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.28",
+  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.28/SEN-Android-0.1.28.apk",
+  "sha256": "76a5db8bc05e63d0d6afcf623f27c7900a9eaee623909e9b545a22c9a960a05a",
+  "notes": "回答送信の無反応を修正。空・無効Tokenを接続済み扱いせず、送信中・成功・失敗を明示し、必要時だけ同じ画面で初回認証できます。"
 }
