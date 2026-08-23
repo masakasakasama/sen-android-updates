@@ -2,7 +2,7 @@
   "versionCode": 36,
   "versionName": "0.1.35",
   "releasePageUrl": "https://github.com/masakasakasama/sen-android-updates/releases/tag/v0.1.35",
-  "apkUrl": "https://github.com/masakasakasama/sen-android-updates/releases/download/v0.1.35/SEN-Android-0.1.35.apk",
+  "apkUrl": "https://140-245-85-166.sslip.io/downloads/SEN-Android-0.1.35.apk",
   "sha256": "52c37ac6a08a81f57f29c86063df7097f4cb9ce860ffb4e0404e6fe7e71fe3a3",
-  "notes": "SEN Android signed release. Production Core compatibility, Android tests, lint, APK signature input, download reachability and SHA-256 are verified by the release pipeline."
+  "notes": "Oracle CoreからAPKを直接配信します。リダイレクトなし、Content-Length、Range再開、SHA-256、APK署名を検証済みです。"
 }
